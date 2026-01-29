@@ -4,13 +4,14 @@
 This project focuses on analyzing Indian road traffic accident data to identify
 high-risk regions and accident patterns using Data Science techniques.
 
-The analysis helps understand accident distribution across states, UTs, and cities
-and can assist policymakers in improving road safety measures.
+The analysis is based on officially published Government of India data for the year 2022
+and helps understand accident distribution across states, UTs, and cities.
+The insights can assist policymakers in improving road safety measures.
 
 ---
 
 ## 🧠 Objectives
-- Analyze traffic accident trends in India
+- Analyze traffic accident trends in India (2022)
 - Identify high-risk regions
 - Perform data cleaning and feature engineering
 - Build a machine learning model for risk prediction
@@ -19,8 +20,11 @@ and can assist policymakers in improving road safety measures.
 ---
 
 ## 📊 Dataset
-- Source: Government of India Road Accident Statistics
+- Source: data.gov.in (Government of India Open Data Portal)
+- Dataset: Road Accident Statistics of India
+- Year: 2022
 - Type: Aggregated accident data (State / UT / City level)
+- Data Authenticity: Official government-published dataset
 
 ---
 
@@ -44,26 +48,28 @@ and can assist policymakers in improving road safety measures.
 ---
 
 ## 📈 Results
-- Identified accident-prone states and cities
-- Built a model to classify high-risk regions
-- Visual insights using bar charts and heatmaps
+- Identified accident-prone states and cities across India
+- Built a machine learning model to classify high-risk regions
+- Generated visual insights using bar charts and heatmaps
 
 ---
 
 ## ⚠️ Limitations
-- Dataset is aggregated (no individual accident records)
-- External factors like weather and road condition not included
+- Dataset is limited to the year 2022
+- Data is aggregated and does not include individual accident-level records
+- External factors such as weather, road condition, and traffic density are not included
 
 ---
 
 ## 🚀 Future Scope
-- Use real-time accident data
-- Add weather and traffic density features
-- Extend analysis to district-level prediction
+- Analyze multi-year accident data from data.gov.in to identify long-term trends
+- Integrate real-time accident data
+- Add weather, traffic density, and road condition features
+- Extend analysis to district-level accident prediction
 
 ---
 
 ## 👩‍💻 Author
 **Babariya Trushali**  
 BCA Final Year Student  
-Aspiring Data Analyst / Data Visualization Designer
+Aspiring Data Analyst & Data Visualization Designer
