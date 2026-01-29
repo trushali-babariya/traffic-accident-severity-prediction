@@ -1,5 +1,4 @@
-# traffic-accident-severity-prediction
-Traffic Accident Severity Prediction using Streamlit
+
 # Traffic Accident Severity Prediction
 
 **Traffic Accident Severity Prediction** is a web-based machine learning application built using **Streamlit**. It predicts the severity of traffic accidents based on input features from historical accident data, helping identify high-risk situations and supporting data-driven decision-making for road safety improvements.
@@ -22,13 +21,7 @@ Traffic accidents are a serious global concern, causing injuries, fatalities, an
 | Language      | Python     |
 | Web UI        | Streamlit  |
 | Data Handling | Pandas, NumPy |
-| ML Libraries  | Scikit-learn, XGBoost |
+| ML Libraries  | Scikit-learn |
 | Visualization | Matplotlib, Seaborn |
 
-## Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/trushali-babariya/traffic-accident-severity-prediction.git
-cd traffic-accident-severity-prediction
