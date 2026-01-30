@@ -69,6 +69,13 @@ The insights can assist policymakers in improving road safety measures.
 
 ---
 
+## 👨‍🏫 Mentor / Project Guide
+🎓 **Sumit Jadav**  
+Mentor at **Sparks To Ideas**  
+(Internship Project Guidance)
+
+---
+
 ## 👩‍💻 Author
 **Babariya Trushali**  
 BCA Final Year Student  
