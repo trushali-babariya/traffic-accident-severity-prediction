@@ -67,12 +67,6 @@ The insights can assist policymakers in improving road safety measures.
 - Add weather, traffic density, and road condition features
 - Extend analysis to district-level accident prediction
 
----
-
-## 👨‍🏫 Mentor / Project Guide
-🎓 **Sumit Jadav**  
-Mentor at **Sparks To Ideas**  
-(Internship Project Guidance)
 
 ---
 
